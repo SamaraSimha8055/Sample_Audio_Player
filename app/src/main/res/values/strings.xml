@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="click_to_play_audio">click to play audio</string>
+</resources>
